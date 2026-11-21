@@ -1,0 +1,29 @@
+EasyList and EasyPrivacy
+Copyright EasyList and EasyPrivacy contributors.
+The unmodified input snapshots are distributed under GPL version 3, one of
+the licenses offered by upstream. See browser-filters-gpl-3.txt.
+Source: https://github.com/easylist/easylist
+EasyList build: https://easylist.github.io/easylist/easylist.txt
+EasyPrivacy build: https://easylist.github.io/easylist/easyprivacy.txt
+
+uBlock Origin uAssets
+Copyright uAssets contributors. Unmodified snapshots under GNU GPL version 3.
+License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
+Source: https://github.com/uBlockOrigin/uAssetsCDN/tree/main/filters
+Files: filters.txt, privacy.txt, filters-2026.txt, filters-mobile.txt
+
+Public Suffix List
+Copyright Public Suffix List contributors.
+The unmodified input snapshot is distributed under Mozilla Public License 2.0.
+The license notice is included in the snapshot.
+License: https://mozilla.org/MPL/2.0/
+Source: https://publicsuffix.org/list/public_suffix_list.dat
+
+SHA-256 of the uncompressed source snapshots
+EasyList      d50acbf8272dfe96d71b7e331f94061f3c951144ea58f5d4eed6ce02fae169d7
+EasyPrivacy   11bdc167ab3f1463977da782dd220b19bd24856d240ceeb708a74815f1e042b9
+Public Suffix 809adae1a2cb1621b70165c11e0d14412d3f104f40a4ebed9a99e23c54f78d71
+uBlock Ads     8e265996ea28c79031c5c48ec10bacc0389784e1b040f011b1e4267a500ba3c5
+uBlock Privacy a32e7a73b90f5b1b9c7346ff4d1dbe003b52b74f7a00406fca2f43be59b8dd1b
+uBlock 2026    959667dce1923a8218deff952bb53e4b276ed4d35a238208bb96f0566d169e93
+uBlock Mobile  e32cef40f31e9ab1d5e18823e310735ab0f494cd5f131e86fdcbe761186988f6

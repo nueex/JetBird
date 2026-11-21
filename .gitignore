@@ -1,0 +1,14 @@
+.tools/
+build/
+build-*/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.keystore
+*.jks
+*.p12
+*.dpapi
+*.log
+google-services.json
+local.properties
