@@ -14,6 +14,7 @@ internal enum class AppLanguage(val tag: String, val label: String, val font: St
     RUSSIAN("ru", "Русский", "noto_cyrillic"),
     CHINESE("zh-Hans-CN", "简体中文", "noto_chinese"),
     HINDI("hi", "हिन्दी", "noto_devanagari");
+    PORTUGUESE("pt-BR", "Português (Brasil)");
 
     val locale: Locale get() = Locale.forLanguageTag(tag)
 
